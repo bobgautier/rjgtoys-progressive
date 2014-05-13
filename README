@@ -1,0 +1,12 @@
+rjgtoys.progressive: Progressive operations
+
+This module provides a simple way to implement operations that
+can take so long that you might need to display a 'progress
+tracker' for the user so they know what's going on.
+
+The tools in this module help you to take a time-consuming
+method and wrap it up in a Python thread in such a way that
+the caller can start the operation and then monitor it until
+completion without really worrying much about the details
+of threading and so on.
+

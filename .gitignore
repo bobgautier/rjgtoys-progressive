@@ -1,0 +1,13 @@
+tests/unit/__pycache__
+htmlcov
+ls.out
+.coverage
+*pyc
+jpretty.py
+listdir.py
+p.j
+build
+dist
+audio-dups
+rjgtoys.cas.egg-info/
+rjgtoys.progressive.egg-info/
